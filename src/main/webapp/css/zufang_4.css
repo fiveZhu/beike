@@ -92,7 +92,7 @@
 	top: -25px;
 	width: 20px;
 	height: 20px;
-	background: url(../images/whiteclose@2x_4.png) no-repeat;
+	background: url(../images/whiteclose@2x.png) no-repeat;
 	background-size: 20px 20px
 }
 
@@ -116,19 +116,19 @@
 }
 
 .loninContaner .qr_code_login .left-text-info {
-	background: url(../images/qrlogin@2x_4.png) no-repeat
+	background: url(../images/qrlogin@2x.png) no-repeat
 }
 
 .loninContaner .qr_code_login .right-img-info {
-	background: url(../images/qrcode@2x_4.png) no-repeat
+	background: url(../images/qrcode@2x.png) no-repeat
 }
 
 .loninContaner .pass_word_login .left-text-info {
-	background: url(../images/codelogin@2x_4.png) no-repeat
+	background: url(../images/codelogin@2x.png) no-repeat
 }
 
 .loninContaner .pass_word_login .right-img-info {
-	background: url(../images/computer@2x_4.png) no-repeat
+	background: url(../images/computer@2x.png) no-repeat
 }
 
 .loninContaner .pass_word_login .left-text-info,
@@ -231,7 +231,7 @@
 .loninContaner .panel_login .panel_info .panel-content .img_logo {
 	width: 120px;
 	height: 42px;
-	background: url(../images/beikelogo@2x_4.png) no-repeat;
+	background: url(../images/beikelogo@2x.png) no-repeat;
 	background-size: 120px 42px;
 	margin: 10px auto 20px
 }
@@ -239,7 +239,7 @@
 .loninContaner .panel_login .panel_info .panel-content .success_img_logo {
 	width: 100px;
 	height: 100px;
-	background: url(../images/icon_success@2x_4.png) no-repeat;
+	background: url(../images/icon_success@2x.png) no-repeat;
 	background-size: 100px 100px;
 	margin: 10px auto 26px
 }
@@ -355,7 +355,7 @@
 	left: 0;
 	width: 15px;
 	height: 15px;
-	background: url(../images/agree-none_4.png) no-repeat;
+	background: url(../images/agree-none.png) no-repeat;
 	background-size: 15px 15px;
 	cursor: pointer
 }
@@ -370,7 +370,7 @@
 }
 
 .loninContaner .panel_login .panel_info .panel-content .user_info_bottom input:checked+label {
-	background: url(../images/agree_4.png) no-repeat;
+	background: url(../images/agree.png) no-repeat;
 	background-size: 15px 15px;
 	border: 0
 }
@@ -595,7 +595,7 @@
 }
 
 .loninContaner .active {
-	background-image: url(../images/active_4.png);
+	background-image: url(../images/active.png);
 	background-size: 12px 10px;
 	background-position: 50%;
 	background-repeat: no-repeat
@@ -841,7 +841,7 @@
 	display: inline-block;
 	width: 18px;
 	height: 12px;
-	background-image: url(../images/view_4.png)
+	background-image: url(../images/view.png)
 }
 
 .loninContaner .panel_login .panel_tab li.drag {
@@ -995,18 +995,18 @@
 	cursor: pointer;
 	background-repeat: no-repeat;
 	background-position: 0 0;
-	background-image: url(../images/search_4.jpg)
+	background-image: url(../images/search.jpg)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.search .search__button {
-		background-image: url(../images/search@2x_4.jpg)
+		background-image: url(../images/search@2x.jpg)
 	}
 }
 
 .search .search__button {
-	background-image: -webkit-image-set(url("../images/search_4.jpg") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/search@2x.jpg?v=1577348895202") 2x);
+	background-image: -webkit-image-set(url("../images/search.jpg") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/search@2x.jpg?v=1577348895202") 2x);
 	background-size: contain
 }
 
@@ -1434,7 +1434,7 @@
 	border-radius: 100px;
 	width: 80px;
 	height: 80px;
-	background: url(../images/vr-animation_4.png);
+	background: url(../images/vr-animation.png);
 	background-position-y: 0;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -1642,7 +1642,7 @@
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.content .content__aside .content__aside__list .content__aside__list--title .contact__im {
-		background-image: url(../images/im@2x_4.png)
+		background-image: url(../images/im@2x.png)
 	}
 }
 
@@ -2255,52 +2255,52 @@
 	height: 13px;
 	vertical-align: top;
 	margin-top: 3px;
-	background: url(../images/up_4.png) no-repeat 50%/contain;
-	background-image: url(../images/more_up_4.png)
+	background: url(../images/up.png) no-repeat 50%/contain;
+	background-image: url(../images/more_up.png)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.content__article__info3>p[data-el=commentShowMore] i {
-		background-image: url(../images/more_up@2x_4.png)
+		background-image: url(../images/more_up@2x.png)
 	}
 }
 
 .content__article__info3>p[data-el=commentShowMore] i {
-	background-image: -webkit-image-set(url("../images/more_up_4.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/more_up@2x.png?v=1577348895202") 2x);
+	background-image: -webkit-image-set(url("../images/more_up.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/more_up@2x.png?v=1577348895202") 2x);
 	margin-left: 6px
 }
 
 .content__article__info3>p[data-el=commentShowMore] i.up {
 	-webkit-transform: rotate(180deg);
 	transform: rotate(180deg);
-	background-image: url(../images/more_up_4.png)
+	background-image: url(../images/more_up.png)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.content__article__info3>p[data-el=commentShowMore] i.up {
-		background-image: url(../images/more_up@2x_4.png)
+		background-image: url(../images/more_up@2x.png)
 	}
 }
 
 .content__article__info3>p[data-el=commentShowMore] i.up {
-	background-image: -webkit-image-set(url("../images/more_up_4.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/more_up@2x.png?v=1577348895202") 2x)
+	background-image: -webkit-image-set(url("../images/more_up.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/more_up@2x.png?v=1577348895202") 2x)
 }
 
 .content__article__info3>p[data-el=commentShowMore] i.down {
-	background-image: url(../images/more_up_4.png)
+	background-image: url(../images/more_up.png)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.content__article__info3>p[data-el=commentShowMore] i.down {
-		background-image: url(../images/more_up@2x_4.png)
+		background-image: url(../images/more_up@2x.png)
 	}
 }
 
 .content__article__info3>p[data-el=commentShowMore] i.down {
-	background-image: -webkit-image-set(url("../images/more_up_4.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/more_up@2x.png?v=1577348895202") 2x)
+	background-image: -webkit-image-set(url("../images/more_up.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/more_up@2x.png?v=1577348895202") 2x)
 }
 
 .content__article__info3 .piclist {
@@ -2450,7 +2450,7 @@
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.agent__im {
-		background-image: url(../images/im@2x_4.png)
+		background-image: url(../images/im@2x.png)
 	}
 }
 
@@ -2598,7 +2598,7 @@
 	top: 60px;
 	width: 50px;
 	height: 50px;
-	background-image: url(../images/close_4.png)
+	background-image: url(../images/close.png)
 }
 
 .gslide--close,
@@ -2761,7 +2761,7 @@
 	right: -50px;
 	cursor: pointer;
 	background-size: 20px;
-	background: url(../images/close_4.png) no-repeat 50%/contain
+	background: url(../images/close.png) no-repeat 50%/contain
 }
 
 .ui__custom.attention-pop .status {
@@ -2771,7 +2771,7 @@
 
 .ui__custom.attention-pop .status .icon {
 	display: inline-block;
-	background: url(../images/icon_success@2x_4.png) no-repeat 50%/contain;
+	background: url(../images/icon_success@2x.png) no-repeat 50%/contain;
 	width: 80px;
 	height: 80px
 }
@@ -2895,7 +2895,7 @@
 	right: -52px;
 	top: -52px;
 	cursor: pointer;
-	background: url(../images/close_4.png) no-repeat 50%/contain;
+	background: url(../images/close.png) no-repeat 50%/contain;
 	background-size: 20px
 }
 
@@ -2990,7 +2990,7 @@
 	right: -52px;
 	top: -52px;
 	cursor: pointer;
-	background: url(../images/close_4.png) no-repeat 50%/contain;
+	background: url(../images/close.png) no-repeat 50%/contain;
 	background-size: 20px
 }
 
@@ -3926,19 +3926,19 @@
 	height: 30px;
 	display: inline-block;
 	margin-right: 50px;
-	background: url(../images/logo_4.png) no-repeat 50%/contain;
-	background-image: url(../images/logo_4.png)
+	background: url(../images/logo.png) no-repeat 50%/contain;
+	background-image: url(../images/logo.png)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.beike__nav .beike__nav--logo {
-		background-image: url(../images/logo@2x_4.png)
+		background-image: url(../images/logo@2x.png)
 	}
 }
 
 .beike__nav .beike__nav--logo {
-	background-image: -webkit-image-set(url("../images/logo_4.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/img/logo@2x.png?v=1577348895202") 2x);
+	background-image: -webkit-image-set(url("../images/logo.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/img/logo@2x.png?v=1577348895202") 2x);
 	vertical-align: bottom
 }
 
@@ -4070,7 +4070,7 @@
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	background-image: url(../images/close_4.png);
+	background-image: url(../images/close.png);
 	background-position: 50%;
 	background-repeat: no-repeat;
 	cursor: pointer;
@@ -4177,18 +4177,18 @@
 	content: " ";
 	background-position: 0 0;
 	background-repeat: no-repeat;
-	background-image: url(../images/check_4.png)
+	background-image: url(../images/check.png)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.popbox .popbox__container .popbpx__between .popbox__checkbox:before {
-		background-image: url(../images/check@2x_4.png)
+		background-image: url(../images/check@2x.png)
 	}
 }
 
 .popbox .popbox__container .popbpx__between .popbox__checkbox:before {
-	background-image: -webkit-image-set(url("../images/check_4.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/img/check@2x.png?v=1577348895202") 2x)
+	background-image: -webkit-image-set(url("../images/check.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/img/check@2x.png?v=1577348895202") 2x)
 }
 
 .popbox .popbox__container .popbpx__between .checked {
@@ -4196,18 +4196,18 @@
 }
 
 .popbox .popbox__container .popbpx__between .checked:before {
-	background-image: url(../images/checked_4.png)
+	background-image: url(../images/checked.png)
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.popbox .popbox__container .popbpx__between .checked:before {
-		background-image: url(../images/checked@2x_4.png)
+		background-image: url(../images/checked@2x.png)
 	}
 }
 
 .popbox .popbox__container .popbpx__between .checked:before {
-	background-image: -webkit-image-set(url("../images/checked_4.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/checked@2x.png?v=1577348895202") 2x)
+	background-image: -webkit-image-set(url("../images/checked.png") 1x, url("https://s1.ljcdn.com/matrix_pc/dist/pc/src/resource/list/checked@2x.png?v=1577348895202") 2x)
 }
 
 .popbox .popbox__container .popbpx__text--container {
@@ -4277,7 +4277,7 @@ body {
 	position: fixed;
 	top: 30px;
 	right: 5%;
-	background: url(../images/close_4.png) no-repeat 50%/contain
+	background: url(../images/close.png) no-repeat 50%/contain
 }
 
 .duty-pop {
